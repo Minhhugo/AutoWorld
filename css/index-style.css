@@ -1,0 +1,14 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	box-sizing: border-box;
+	text-rendering: geometricPrecision;
+	list-style-type: none;
+	color:#333;
+}
+body {
+	background: #f2f2f2;
+}
+a {
+	text-decoration: none !important;	
+	display: block;
+}
